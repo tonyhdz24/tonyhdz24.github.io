@@ -1,3 +1,3 @@
 # Welcome!
-### Example github page for CS155
-[View My GitHub Profile](https://github.com/tonyhdz24)
+### This is an example github page created as part of CS155
+
